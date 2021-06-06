@@ -1,0 +1,111 @@
+body{
+    margin: 0px;
+    background-image: url("C:\Users\Acer\Pictures\Yuklemeler\arxafon.png");
+}
+
+
+.hone {
+    color: cornflowerblue;
+    font-size: 25px;
+    margin-left: 18px;
+    margin-top: 20px;
+}
+.htwo {
+    color: cornflowerblue;
+    font-size: 20px;
+    margin-left: 8px;
+    margin-top: 10px;
+}
+.xett {
+    border: 0.1px solid gray;
+    margin: 15px 18px;
+}
+.sol {
+    border: 1px solid black;
+    height: 13cm; 
+    margin-right: 50px;
+    margin-top: 30px;
+}
+.sag {
+    border: 1px solid black;
+    height: 5cm;
+    align-self: start;
+    margin-top: 30px;
+}
+.foto {
+    width: 4cm;
+    height: 3.5cm;
+    display: inline-block;
+    float: left;
+    margin: 8px 18px;  
+    margin-bottom: 3px; 
+}
+.yazi {
+    display: block ;  
+    margin: 8px 18px;
+    margin-right: 40px;
+    font-size: 20px;
+ 
+}
+.sagbir, .sagiki, .saguc {
+    float: left;
+    height: 40%;
+   width: 30%; 
+   margin-top: 30px;
+}
+   .sagbir{
+       margin-right: 6px;
+   }
+  .sagiki {
+      
+      margin-right: 6px;
+  } 
+  .xett2{
+      border: 0.1px solid gray;
+  }
+  /*Portfolio*/
+  .solPortfolio {
+    border: 1px solid black;
+    height: 18.5cm; 
+    margin-right: 100px;
+    margin-top: 30px;
+  }
+
+  .hangman , .RPG , .TGame , .rutgers , .Smensefo{
+      width: 7cm;
+      height: 5cm;
+      display: inline-block;
+  }
+  .hangman , .RPG , .TGame{
+      margin-bottom: 15px;
+  }
+  .Smensefo {
+      margin-left: 16px;
+  }
+    /*Contact*/
+    input.one, input.two, input.three {
+        display: block;
+        width: 14cm;
+        height: 0.68cm;
+    }
+    input.one, input.two {
+        margin-bottom: 10px;
+    }
+    input.three {
+        height: 3.5cm;
+    }
+    input.teqdim {
+        margin-top: 10px;
+        background-color: rgb(39, 183, 219);
+        color: whitesmoke;
+    }
+    
+  .foot {
+      border: 1px solid black;
+     height: 2.5cm;
+     margin-top: 49px;
+     background-color: gray;
+     margin-bottom: 0%;
+     padding-left:46% ;
+    padding-top: 35px;
+  }
